@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T12:31:37.168Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="QTb3pu6-Yzzp60M4yVPo" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-23T13:45:17.754Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="esAhzHivZ_ch4i68ViCJ" version="14.7.9" type="github">
   <diagram id="ntcGjyUBduR7sOyiUudM" name="Page-1">
     <mxGraphModel dx="1395" dy="1682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -169,8 +169,8 @@
         <mxCell id="UHCusJSntU0QaRRSibGP-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UHCusJSntU0QaRRSibGP-37" target="UHCusJSntU0QaRRSibGP-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UHCusJSntU0QaRRSibGP-37" value="Validate &lt;br&gt;invited &lt;br&gt;customer" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="310" width="85" height="80" as="geometry" />
+        <mxCell id="UHCusJSntU0QaRRSibGP-37" value="Validate &lt;br&gt;invited &lt;br&gt;borrower" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="310" width="75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UHCusJSntU0QaRRSibGP-40" value="Check &lt;br&gt;borrower &lt;br&gt;exist" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="150" width="90" height="80" as="geometry" />
