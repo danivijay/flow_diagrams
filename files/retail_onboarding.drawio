@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T13:45:17.754Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="esAhzHivZ_ch4i68ViCJ" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T05:13:56.359Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="f-qn8U0qk8BcGxCbl50n" version="14.7.9" type="github">
   <diagram id="ntcGjyUBduR7sOyiUudM" name="Page-1">
     <mxGraphModel dx="1395" dy="1682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -146,7 +146,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UHCusJSntU0QaRRSibGP-28" value="Generic Profile&lt;br&gt;Update API" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UHCusJSntU0QaRRSibGP-28" value="Entities/Retailer &lt;br&gt;Profile Update" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="-80" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="UHCusJSntU0QaRRSibGP-30" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UHCusJSntU0QaRRSibGP-19" target="UHCusJSntU0QaRRSibGP-28">
@@ -169,7 +169,7 @@
         <mxCell id="UHCusJSntU0QaRRSibGP-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UHCusJSntU0QaRRSibGP-37" target="UHCusJSntU0QaRRSibGP-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UHCusJSntU0QaRRSibGP-37" value="Validate &lt;br&gt;invited &lt;br&gt;borrower" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UHCusJSntU0QaRRSibGP-37" value="Validate &lt;br&gt;invited &lt;br&gt;retailer" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="310" width="75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UHCusJSntU0QaRRSibGP-40" value="Check &lt;br&gt;borrower &lt;br&gt;exist" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
